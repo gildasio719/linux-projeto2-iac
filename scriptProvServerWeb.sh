@@ -16,6 +16,6 @@ wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.z
 unzip main.zip
 cd linux-site-dio-main
 cp -R /var/www/html/
-ll
+
 
 
